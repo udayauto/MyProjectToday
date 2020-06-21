@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6717" started-at="2020-06-21T11:02:16 EDT" finished-at="2020-06-21T11:02:23 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6717" started-at="2020-06-21T11:02:16 EDT" finished-at="2020-06-21T11:02:23 EDT">
+      <class name="pack.Login.TestCasetoverifyLogin">
+        <test-method status="PASS" signature="verifyGoogle()[pri:0, instance:pack.Login.TestCasetoverifyLogin@3a883ce7]" name="verifyGoogle" duration-ms="6622" started-at="2020-06-21T11:02:16 EDT" finished-at="2020-06-21T11:02:23 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGoogle -->
+      </class> <!-- pack.Login.TestCasetoverifyLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
